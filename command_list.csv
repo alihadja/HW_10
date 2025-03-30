@@ -1,0 +1,51 @@
+    1  man ls
+    2  man Is
+    3  help ls
+    4  ls
+    5  cls
+    6  clear
+    7   ls
+    8  cd Desktop
+    9  ls
+   10   pwd
+   11  date
+   12  df -h
+   13  git config --global user.name "Alina Volkova"
+   14  git clear
+   15  clean
+   16  git config --global user.name "Alina Volkova"
+   17  git config --global user.email alinasoloshenko3008@gmail.com
+   18  git clone https://github.com/alihadja/HW_10.git 
+   19  cd HW_10
+   20  touch text_ignore.txt
+   21  nano  .gitignore.txt
+   22  git status
+   23  git add [.gitignore.txt]
+   24   nano  .gitignore
+   25  git status
+   26  git add [.gitignore]
+   27  git add .gitignore
+   28  git status
+   29  git commit -m "Task 1. Work wih .gitignore"
+   30  clear
+   31  touch main_test.txt
+   32  git status
+   33  git add main_test.txt
+   34  git status
+   35  git commit -m "Task 2. Edd main_test.txt"
+   36  clear
+   37  git branch
+   38  git branch
+   39  touch develop_test.txt
+   40  git add develop_test.txt
+   41  git commit -m "Add develop_test.txt"
+   42  nano develop_test.txt
+   43  git status
+   44  git add  develop_test.txt
+   45  git status
+   46  git commit -m "Task 3. Work in the develop branch"
+   47   git checkout main
+   48  git merge develop
+   49  git log
+   50  history
+   51  history > command_list.csv
